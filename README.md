@@ -8,7 +8,7 @@
 
 ## 🎯 A Bit About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
 I'm **Mustapha Kassimi**, a passionate student at **FSTM Mohammedia**, where I’m crafting my skills in **Mathematics, Informatics, and Physics (MIP)**. You’ll usually find me in front of my keyboard, wrestling with algorithms or building cool stuff with **C** and **MySQL**.
 
