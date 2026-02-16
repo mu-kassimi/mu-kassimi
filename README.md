@@ -1,76 +1,62 @@
-<h1 align="center">Hello, Digital Traveler! 👋 I'm Mustapha Kassimi</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=00A896&center=true&vCenter=true&width=550&lines=I+transform+ideas+into+code;Fluent+in+C+and+SQL;Solving+problems+like+it's+physics;Always+learning+something+new!" alt="Typing Animation"/>
-</div>
+<h1 align="center">Hi 👋, I'm Mustapha Kassimi</h1>
+<h3 align="center">Master’s Student in Intelligent Processing Systems (AI & Data Science)</h3>
 
 ---
 
-## 🎯 A Bit About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
+🎓 Master IPS – Intelligent Processing Systems (AI & Data Science) – Rabat  
+🎓 Bachelor in Data Science & Decision Informatics (SDID)  
 
-I'm **Mustapha Kassimi**, a passionate student at **FSTM Mohammedia**, where I’m crafting my skills in **Mathematics, Informatics, and Physics (MIP)**. You’ll usually find me in front of my keyboard, wrestling with algorithms or building cool stuff with **C** and **MySQL**.
-
-- 🔭 **Current Project:** Mastering advanced **data structures** and diving deeper into **system programming**.
-- 🌱 **Learning Path:** Exploring the ins and outs of **database optimization**.
-- 🤝 **Looking to collaborate on:** Open-source projects that focus on **data processing** and **algorithmic challenges**.
-- 💡 **Fun Fact:** I once built a whole database just to track my favorite coffee blends ☕.
-
----
-
-## 🛠️ My Developer Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,mysql,sqlite,vscode,git" alt="Mustapha's Tools" />
-</p>
-
-- **C:** Where it all started, my go-to language for efficient coding.
-- **SQL & MySQL:** The art of organizing data like a pro.
-- **Linux:** My favorite ecosystem, where real coding happens.
-- **Git:** Version control mastery for tracking every brilliant (and buggy) line of code.
-- **VS Code:** The playground for writing and debugging all that beautiful code.
+💡 Passionate about:
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Big Data
+- Backend Development
+- Intelligent Systems
 
 ---
 
-## 📊 GitHub Journey
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mu-kassimi&show_icons=true&theme=radical" alt="Mustapha's GitHub Stats" />
-</div>
+### 👨‍💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu-kassimi&theme=radical" alt="Mustapha's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-kassimi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🌌 Mustapha's Coding Universe
-
-- **Currently mastering:** Advanced **C algorithms** and **database performance**.
-- **Next challenge:** Building a real-world data management system for a project idea I’ve been brewing up.
-- **Fascinated by:** The intersection of **physics** and **computer science**—trying to model the physical world through code is like exploring a hidden universe.
+### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌐 Let's Connect
+## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/mustapha-kassimi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+🔹 Smart Syndic Management System (Spring Boot + Flutter + JWT)  
+🔹 AL BORAQ – Train Reservation System (Java EE)  
+🔹 Traffic Sign Detection using CNN  
+🔹 Data Warehouse & BI Dashboard (Talend + Power BI)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=00A896&style=flat-square" alt="Visitor count"/>
-  <h4 style="color: #00A896;">Thank you for stopping by! 🌟</h4>
-</div>
+## 🎯 Currently Looking For
+
+🚀 Internship (PFE) in:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/mustapha-kassimi)  
+[Email](kassimimu03@gmail.com)
+
+---
+
+✨ *Turning Data into Intelligence.*
